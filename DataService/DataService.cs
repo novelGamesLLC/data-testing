@@ -1,4 +1,5 @@
 ﻿using System;
+using Json.Net;
 
 namespace Data.Service
 {
@@ -7,6 +8,7 @@ namespace Data.Service
         // add a thing
         public int Add(int a, int b) 
         {
+            Json.Net.JsonParser parser = new JsonParser();
            return a + b;
         }
 
