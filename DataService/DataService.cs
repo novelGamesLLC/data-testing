@@ -9,7 +9,7 @@ namespace Data.Service
         public int Add(int a, int b) 
         {
             Json.Net.JsonParser parser = new JsonParser();
-           return a + b;
+            return a + b;
         }
 
         // Read the JSON file
