@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService.Test/DataService.Test.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

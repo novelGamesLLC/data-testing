@@ -1,0 +1,9 @@
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/bin/Debug/netstandard2.0/DataService.deps.json
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/bin/Debug/netstandard2.0/DataService.dll
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/bin/Debug/netstandard2.0/DataService.pdb
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.csprojAssemblyReference.cache
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.csproj.CoreCompileInputs.cache
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.AssemblyInfoInputs.cache
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.AssemblyInfo.cs
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.dll
+/Users/alexchambers/Developer/Novel Game Systems/data-testing/DataService/obj/Debug/netstandard2.0/DataService.pdb
