@@ -1,0 +1,14 @@
+// WordInfo.json (scoring purposes)
+[
+  {
+    "Word":"shears",
+    "Definition":"cutty things",
+    "Sentence":"lorem ipsum",
+    "Synonyms":["scissors", "knives"],
+    "rank": 0,
+    "gradeLevel": ""
+  },
+  {
+    "Word":"hew"
+  }
+]
